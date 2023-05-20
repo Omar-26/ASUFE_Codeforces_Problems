@@ -1,4 +1,4 @@
-# <p align="center"> A. absolute_sum </p>
+# <p align="center"> D. frequent element </p>
 
 <p align="center">
   time limit per test: 1 second <br>
@@ -8,15 +8,16 @@ output: standard output
 </p>
 
 size of array is constant = 50
-pass the number of elements received from user (size_arr).
 
-Take an array of integers (positive or negative or both) (array).
+pass the number of elements received from user (array_size).
 
-and show the sum of the absolute value of each element.
+Take an array of integers (positive or negative or both) (array)
 
-using Function. :
+show most frequent element in an array of integers.
 
-int getAbsSum(int arr[],int size_arr).
+using Function:
+
+int most_frequent_element(int array[], int array_size)
 
 range of number (number -500<x≤500)
 
@@ -25,24 +26,21 @@ enter array size then enter array
 
 5
 
-2 -1 4 8 10
+1 1 1 2 5
 
 ## Output
-show the sum of the absolute value of each element.
-
-25
+show most frequent element in an array of integers. 1
 
 ### Examples<br>
  ```input```<br>
-5 2 -1 4 8 10 <br>
+5 1 1 1 2 5<br>
  ```output```<br>
-**25** <br>
- ```input```<br>
-5 -3 -4 -10 -2 -3 <br>
- ```output```<br>
-**22** <br>
-
+1 <br>
 #### Note
-The term "absolute value" means to remove any negative sign in front of a number, and to think of all numbers as positive (or zero). <br>
-All the elements in the given array are integers. <br>
-You can use vectors or arrays.
+All the elements in the given array are integers.
+
+Don't worry there will be number frequent more than any number in array.
+
+you can use vectors or arrays.
+
+
