@@ -1,4 +1,4 @@
-# <p align="center"> A. absolute_sum </p>
+# <p align="center"> C. largest elements </p>
 
 <p align="center">
   time limit per test: 1 second <br>
@@ -7,42 +7,64 @@ input: standard input<br>
 output: standard output
 </p>
 
-size of array is constant = 50
-pass the number of elements received from user (size_arr).
+size of array is constant = 50 .
 
-Take an array of integers (positive or negative or both) (array).
+pass the number of elements received from user (array_size).
 
-and show the sum of the absolute value of each element.
+Take (k) The number of largest elements required to be printed.
 
-using Function. :
+Take an array of integers (positive or negative or both) (array)
 
-int getAbsSum(int arr[],int size_arr).
+show most largest elements in an array of integers.
 
-range of number (number -500<x≤500)
+using Function:
+
+void k_largest_elements(int arr[], int array_size, int k)
+
+range of number (number -500<x≤500).
 
 ## Input
-enter array size then enter array
+enter array size then enter K then enter array
 
 5
 
-2 -1 4 8 10
+3
+
+1 2 3 4 5
 
 ## Output
-show the sum of the absolute value of each element.
+show most Largest elements (k) in an array of integers.
 
-25
+5 4 3
 
 ### Examples<br>
  ```input```<br>
-5 2 -1 4 8 10 <br>
+5 3 1 2 3 4 5 <br>
  ```output```<br>
-**25** <br>
+5 4 3 <br>
  ```input```<br>
-5 -3 -4 -10 -2 -3 <br>
+5 2 1 2 3 4 5
+<br>
  ```output```<br>
-**22** <br>
+5 4 <br>
+ ```input```<br>
+6 3 1 2 3 4 5 6
+<br>
+ ```output```<br>
+6 5 4 <br>
+ ```input```<br>
+1 2 1
+<br>
+ ```output```<br>
+1 0 <br>
 
+ ```input```<br>
+3 4 1 2 3 <br>
+ ```output```<br>
+3 2 1 0 <br>
 #### Note
-The term "absolute value" means to remove any negative sign in front of a number, and to think of all numbers as positive (or zero). <br>
-All the elements in the given array are integers. <br>
-You can use vectors or arrays.
+All the elements in the given array are integers.
+
+if K > size the remain values will be zeros.( see the last test case. )
+
+you can use vectors or arrays.
