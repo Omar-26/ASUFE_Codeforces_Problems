@@ -23,25 +23,6 @@ enter array size then enter array 5 1 2 3 4 5
 ## Output
 show 2 array 2 4 ( even array) 1 3 5 ( odd array)
 
-### Examples
-inputCopy
-5 1 2 3 4 5
-outputCopy
-2 4 
-1 3 5 
-inputCopy
-7 1 2 3 4 5 6 7
-outputCopy
-2 4 6 
-1 3 5 7 
-inputCopy
-3 1 1 1
-outputCopy
-1 1 1 
-inputCopy
-1 1 2 3 4
-outputCopy
-1 
 ### Examples<br>
  ```input```<br>
 5 1 2 3 4 5 <br>
