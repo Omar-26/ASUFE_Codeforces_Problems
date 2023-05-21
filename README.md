@@ -1,5 +1,6 @@
 # ASUFE_Codeforces_Problems
-### <p align="center"> ![68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f622f62312f436f6465666f726365735f6c6f676f2e7376672f3235363070782d436f6465666f726365735f6c6f676f2e7376672e706e67](https://github.com/Omar-26/ASUFE_Codeforces_Problems/assets/110625103/203c9c12-835e-4b1c-8e2e-e1c5c97b7716) </p>
-# What's included in this repostryrepository ?
+### <p align="center"> ![68747470733a2f2f656e672e6173752e6564752e65672f696d672f6c6f676f2e706e67](https://github.com/Omar-26/ASU_Electrical_Sophomore_Project/assets/110625103/ba0d7dea-29bc-40e3-a6b4-ea4dfda35961) </p>
+### <p align="center"> <img src="https://github.com/Omar-26/ASUFE_Codeforces_Problems/assets/110625103/203c9c12-835e-4b1c-8e2e-e1c5c97b7716" width="600" height="75" /> </p>
+# What's included in this repository ?
 📂 Problems + Solutions  Source code files of them
 + CSE 131s - Computer Programming - ASUFE - 22/23
