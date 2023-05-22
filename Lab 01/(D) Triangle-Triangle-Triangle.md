@@ -9,7 +9,8 @@ output: standard output
 
 Calculate the 2 sides of Triangle and the Third angle using sin law.
 <div id="pic">
-  <img src="https://espresso.codeforces.com/193a270bf20286e04a260f98c3fad92f67d15552.png" width="500"/>
+  <p align="center"> <img src="https://espresso.codeforces.com/193a270bf20286e04a260f98c3fad92f67d15552.png" width="500"/>
+</p>
 </div>
 
 ## Input
