@@ -16,7 +16,7 @@ int main()
     cout << most_frequent_element(arr, size_arr);
 }
 
-///////////////////////////////
+
 int most_frequent_element(int array[], int array_size)
 {
     int i = 0, j = 0, max_count = 0, count = 0, y = 0;
