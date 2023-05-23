@@ -22,7 +22,7 @@ click the icon to contact 👆 :
 <p align="center">
 <a href="https://www.linkedin.com/in/omar-ashraf01" target="blank"><img align="center" src="https://github.com/Omar-26/Icons/blob/main/linkedin.png?raw=true" alt="Linkedin" height="50" width="50" /></a>
 <a href="https://twitter.com/omarash78893600" target="blank"><img align="center" src="https://github.com/Omar-26/Icons/blob/main/twitter.png?raw=true" alt="Twitter" height="50" width="50" /></a>
-<a href="eng.omar.ashraf26@gmail.com" target="blank"><img align="center" src="https://github.com/Omar-26/Icons/blob/main/gmail.png?raw=true" alt="Gmail" height="60" width="53" /></a>
+<a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJTJFPGkpqJPHXRwDVwCpHzSDvLLKdnlLzzDSLTfWLkxRBqnvKbrFZZLwNgSrcnWSXxsxRL" target="blank"><img align="center" src="https://github.com/Omar-26/Icons/blob/main/gmail.png?raw=true" alt="Gmail" height="60" width="53" /></a>
 <a href="https://www.facebook.com/ommaar.ashrraaf" target="blank"><img align="center" src="https://github.com/Omar-26/Icons/blob/main/facebook.png?raw=true" alt="Facebook" height="50" width="50" /></a>
 <a href="https://www.instagram.com/ommaar_ashrraaf/" target="blank"><img align="center" src="https://github.com/Omar-26/Icons/blob/main/instagram%20(1).png?raw=true" alt="Instagram" height="52" width="52" /></a>
 </p>
