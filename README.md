@@ -1,7 +1,5 @@
 # ASUFE_Codeforces_Problems
-
 ### <p align="center"><a href="https://eng.asu.edu.eg/"><img alt="ASUFE" src= "https://eng.asu.edu.eg/img/logo.png" /></p>
-
 ### <p align="center"><a href="https://codeforces.com/group/QTQ32O8sPq/contests"><img alt="Group Link" src= "https://github-production-user-asset-6210df.s3.amazonaws.com/110625103/239684512-203c9c12-835e-4b1c-8e2e-e1c5c97b7716.png" width="600" height="75" /></p>
 # What's included in this repository ?
 📂 Problems + Solutions  Source code files of them
