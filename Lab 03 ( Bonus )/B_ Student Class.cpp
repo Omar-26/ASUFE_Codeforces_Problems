@@ -1,6 +1,5 @@
 #include <bits/stdc++.h>
 using namespace std;
-using namespace std;
 
 class Course
 {
@@ -8,7 +7,7 @@ public:
   string ccode;
   string cname;
   float chours;
-
+  
   Course(string code, string name, float hours)
       : ccode(code), cname(name), chours(hours) {}
 };
